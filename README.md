@@ -1,3 +1,3 @@
 # DatabaseProject
 
-hi
+My teammates and I wanted to explore the film industry's power to affect the public's perception--especially that of crime in America. Cracking the Crime Code is a data-driven web application that specifically explores the film industry's effect on the public's perception of crime rates. By analyzing and importing the IMDb database, we extracted films that had any associated crime keywords. The application allowed users to query the film industry's representation of crime rates for a specific city based on year and crime type. Then, users could compare the films' crime rates to real life crime rates for that specific city.
